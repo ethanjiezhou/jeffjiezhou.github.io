@@ -1,8 +1,0 @@
----
-layout: post
-title: "Markdown-入门指南"
-description: ""
-category: 
-tags: [Markdown]
----
-{% include JB/setup %}
