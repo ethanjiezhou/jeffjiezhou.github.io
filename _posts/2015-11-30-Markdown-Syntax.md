@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Markdown 语法说明"
+title: "Markdown Syntax Markdown语法说明"
 description: "Web Technology"
 category: Web
 tags: [Web, Markdown]
