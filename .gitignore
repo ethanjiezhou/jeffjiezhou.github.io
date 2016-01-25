@@ -8,3 +8,7 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+
+.idea
+atom.xml
+jeffjiezhou.github.io.iml
