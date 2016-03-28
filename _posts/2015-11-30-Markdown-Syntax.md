@@ -5,7 +5,6 @@ description: "Web Technology"
 category: Web
 tags: [Web, Markdown]
 ---
-{% include JB/setup %}
 
 **Note:** This is Simplelified Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][Eng-doc].
 [Eng-doc]:http://daringfireball.net/projects/markdown/syntax

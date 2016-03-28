@@ -5,7 +5,6 @@ description: "Markdown Introduction"
 category: Web
 tags: [Web, Markdown]
 ---
-{% include JB/setup %}
 
 # Markdown入门指南
 文章基于[Te_Lee](http://www.jianshu.com/p/1e402922ee32/)
