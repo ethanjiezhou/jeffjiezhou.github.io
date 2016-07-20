@@ -341,7 +341,7 @@ blockquote:last-child {
 #fall ul{
 	margin: 0 10px;
 	padding: 0;
-	width: 240px;
+	/*width: 240px;*/
 	/*background-color: red;*/
 	display: inline-block;
 	vertical-align: top;
@@ -361,7 +361,7 @@ blockquote:last-child {
 	}
 }
 #fall li{
-	margin: 0 0 20px 0;
+	margin: 0 20px 20px 0px;
 	padding: 0;
 	list-style-type: none;
 	font-size: 14px;
