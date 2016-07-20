@@ -361,6 +361,7 @@ blockquote:last-child {
 	}
 }
 #fall li{
+	width: 240px;
 	margin: 0 20px 20px 0px;
 	padding: 0;
 	list-style-type: none;
